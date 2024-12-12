@@ -14,7 +14,7 @@
 # list.append(10)
 # print(list)
 
-# list=[10,7,5,1]
-# print(list.append(2))
-# print(list.sort())
-# print(list)
+list=[10,7,5,1]
+print(list.append(2))
+print(list.sort())
+print(list)
